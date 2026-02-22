@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm Paul, a 17 year old developer from Germany.</p>
+<p align="center">I’m Paul, a 17-year-old from Germany.</p>
 
 ###
 
